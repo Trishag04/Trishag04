@@ -1,16 +1,33 @@
-## Hi there 👋
+## ✨ TRISHA G  
+### AI/ML Student | Explorer | Fast Learner  
 
-<!--
-**Trishag04/Trishag04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! 👋  
+I’m an **AI/ML student** with a curious mind and a love for exploring how technology can make a real impact.  
+I enjoy trying new things, learning by doing, and figuring out where my strengths truly lie.  
 
-Here are some ideas to get you started:
+Earlier, I explored the world of **cybersecurity** — but soon realized my real curiosity pulls me toward **AI and Machine Learning**, where I can blend logic, creativity, and innovation.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I’m Currently Doing  
+- Learning and building projects in **AI/ML**  
+- Experimenting with **practical implementations** of what I learn  
+- Exploring different areas of tech to find my unique path  
+
+---
+
+### ⚙️ What Defines Me  
+- 🧠 **Fast learner** — I pick things up quickly and love problem-solving  
+- 🔍 **Practical thinker** — I learn best by building, testing, and improving  
+- 🌱 **Still figuring things out**, but enjoying every step of the journey  
+
+---
+
+### 🌐 Connect With Me  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Trishag04)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/trishag44)  
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:trishag2004@gmail.com)  
+
+> “Still exploring, still learning — because that’s how growth happens.”
+
+
