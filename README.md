@@ -24,9 +24,8 @@ Earlier, I explored the world of **cybersecurity** — but soon realized my real
 ---
 
 ### 🌐 Connect With Me  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Trishag04)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/trishag44)  
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:trishag2004@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/trishag44)  
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:trishag2004@gmail.com)
 
 > “Still exploring, still learning — because that’s how growth happens.”
 
